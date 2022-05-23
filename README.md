@@ -1,3 +1,2 @@
 # BuyMeACoffee-Dapp
-Created a Dapp for buying the developer a coffee using metamask.
-Created this as a part of Week 2 of RoadToWeb3 by Alchemy 
+Created a basic coffee tipping dApp using Solidity, Hardhat, Alchemy, Ethers.js, Replit.
